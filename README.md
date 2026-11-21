@@ -1,5 +1,9 @@
 # The World Today — Saturday, 21 November 2026
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Jaka1603/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Jaka1603/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 [![Daily News in One Image](https://img.shields.io/badge/Daily%20News-in%20One%20Image-black)](https://make.fun/bounties/news-image-20261121)
 [![One Image](https://img.shields.io/badge/One-Image-black)](https://make.fun/bounties/news-image-20261121)
 [![Python 3](https://img.shields.io/badge/Python%203-stdlib%20only-black)](https://make.fun/bounties/news-image-20261121)
